@@ -1,0 +1,39 @@
+h2{
+    text-align: center;
+}
+
+.hoja{
+    border-style: solid;
+    border-color: black;
+}
+
+.botones{
+    margin: 25px;
+}
+
+.btn{
+    width: 300px;
+    margin-bottom: 15px;
+}
+
+.inputDeb{
+    width: 100px;
+}
+
+.contenedor {
+ height: 50vh;
+ width: 80vh;
+}
+
+.modal-dialog-scrollable .modal-body {
+    max-height: 60vh;
+    overflow-y: auto;
+  }
+  
+  .modal-lg {
+    max-width: 80%;
+  }
+  
+  .table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(0,0,0,.05);
+  }
